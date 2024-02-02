@@ -1,2 +1,2 @@
 # anguar-ecommerce-app
-Basic angular application with json db
+Basic angular ecommerce application with json db
